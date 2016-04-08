@@ -1,6 +1,0 @@
-- hello-world-ant (project root folder)
-  - src
-    - com
-      - eureka
-        - HelloWorld.java
-  - build.xml
